@@ -19,6 +19,8 @@ In this repository, you will find multiple projects where I have replicated data
   - Total Transactions, Total Profit, Profit margin and return rate
   - Conditional formatting
   - Gauge chart, heapmap, Azure map, stacked column chart trendline
+ 
+URL: https://app.powerbi.com/view?r=eyJrIjoiOTNjNzA0YmYtODUwMi00MjNiLTlhZjYtYmZjYTliYjZkZTY0IiwidCI6IjUyMGIyNThhLWIyMTAtNGZkMC1hYjg5LTM3MGY3M2RkOWFhOSJ9
 
 ### Project 2: Revenue Opportunities
 - **Description**: Dashboard providing insights into Revenue Opportunities by region, breaking pipline  by stage, trending in different periods and by different geographies, using theme effect in Power BI
@@ -27,12 +29,16 @@ In this repository, you will find multiple projects where I have replicated data
   - KPIs (Key Performance Indicators)
   - Month-over-month comparison
 
+URL: https://app.powerbi.com/view?r=eyJrIjoiYTcxYWQ1NTMtZjQ5OS00YTM2LTlhNzYtZGM2MWQ3ZGY1NDNhIiwidCI6IjUyMGIyNThhLWIyMTAtNGZkMC1hYjg5LTM3MGY3M2RkOWFhOSJ9
+
 ### Project 3: Sales & Marketing
 - **Description**: Sales and marketing trend of a dummy company "VanArsdel Ltd",  including market share analysis in absolute and % terms
 - **Features**:
   - Line Chart
   - Clustered Column Chart
   - Drill-through capabilities
+
+URL: https://app.powerbi.com/view?r=eyJrIjoiYWFiYmE4MjAtZmJkNS00YzRkLTk2YzYtNjY3NDVhYTE3ZTJhIiwidCI6IjUyMGIyNThhLWIyMTAtNGZkMC1hYjg5LTM3MGY3M2RkOWFhOSJ9
 
 ### Project 4: Store Sales
 - **Description**: Store sales over
@@ -41,6 +47,7 @@ In this repository, you will find multiple projects where I have replicated data
   - Line and column chart together
   - Bubble chart along with Azure map
 
+URL: https://app.powerbi.com/view?r=eyJrIjoiMzcwMGUwNGEtZjIzZi00MjA0LWEzYTYtNjFkODI2Y2YwNmNlIiwidCI6IjUyMGIyNThhLWIyMTAtNGZkMC1hYjg5LTM3MGY3M2RkOWFhOSJ9
 
 ## Getting Started
 
