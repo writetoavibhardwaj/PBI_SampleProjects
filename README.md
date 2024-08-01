@@ -68,9 +68,5 @@ I would like to thank the various content creators and sources from which I repl
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: 
-
----
-
-Feel free to modify the content to better suit your preferences and specific projects.
+- Email: writetoavibhardwaj@gmail.com
+- LinkedIn: XXX
